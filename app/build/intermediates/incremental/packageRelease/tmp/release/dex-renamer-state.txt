@@ -1,0 +1,4 @@
+#Mon Sep 07 04:26:17 WIB 2020
+base.0=/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

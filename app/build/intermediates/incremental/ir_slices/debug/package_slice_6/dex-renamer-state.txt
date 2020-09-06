@@ -1,0 +1,4 @@
+#Sat Mar 16 15:01:52 ICT 2019
+base.0=E\:\\SKRIPSI\\SKRIPSI EKA\\SKRIPSHIT\\APLIKASI\\KendaliLampu_App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.on29studio.ekazpraw"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:5:5-23:19
+14        android:allowBackup="true"
+14-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:6:9-35
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] /Users/ekazpraw/.gradle/caches/transforms-2/files-2.1/f14724208b5bfeeef0d6bdefe649bca7/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:7:9-43
+18        android:label="@string/app_name"
+18-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:8:9-41
+19        android:supportsRtl="true"
+19-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:9:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme.NoActionBar" >
+21-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:10:9-52
+22        <activity android:name="com.on29studio.ekazpraw.SplashScreen" >
+22-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:11:9-16:20
+22-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:11:19-47
+23            <intent-filter>
+23-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:12:13-15:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:13:17-69
+24-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:13:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:14:17-77
+26-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:14:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="com.on29studio.ekazpraw.DashboardActivity" />
+29-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:17:9-55
+29-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:17:19-52
+30        <!-- <activity android:name=".LampButtonActivity" /> -->
+31        <activity android:name="com.on29studio.ekazpraw.LampActivity" />
+31-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:19:9-50
+31-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:19:19-47
+32        <activity android:name="com.on29studio.ekazpraw.HelpActivity" />
+32-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:20:9-50
+32-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:20:19-47
+33        <activity android:name="com.on29studio.ekazpraw.AboutActivity" />
+33-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:21:9-51
+33-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:21:19-48
+34        <activity android:name="com.on29studio.ekazpraw.ExitActivity" />
+34-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:22:9-50
+34-->/Users/ekazpraw/Desktop/SKRIPSHIT EKAZ/APLIKASI/KendaliLampu_App/app/src/main/AndroidManifest.xml:22:19-47
+35    </application>
+36
+37</manifest>

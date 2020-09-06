@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Aplikasi Kendali Lampu</string>
+    <string name="ruang1">Lampu 1</string>
+    <string name="ruang2">Lampu 2</string>
+    <string name="ruang3">Lampu 3</string>
+    <string name="ruang4">Lampu 4</string>
+    <string name="ruang5">Lampu 5</string>
+    <string name="ruang6">Lampu 6</string>
+    <string name="ruang7">Lampu 7</string>
+    <string name="ruang8">Lampu 8</string>
+    <string name="hint_ip">e.g. 192.168.0.10</string>
+    <string name="text_ip">IP Address:</string>
+    <string name="text_port">Port Number:</string>
+    <string name="hint_port">e.g. 80</string>
+    <string name="r1">Ruang 1</string>
+    <string name="r2">Ruang 2</string>
+    <string name="r3">Ruang 3</string>
+    <string name="r5">Ruang 4</string>
+    <string name="r6">Ruang 5</string>
+    <string name="r7">Ruang 6</string>
+    <string name="r8">Ruang 7</string>
+    <string name="r9">Ruang 8</string>
+    <string name="about_txt">Aplikasi Kendali Lampu Dengan Arduino UNO dan ESP8266</string>
+</resources>
